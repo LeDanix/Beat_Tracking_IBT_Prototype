@@ -10,7 +10,9 @@ If you want to build this device, the code that allows his functions is on the B
 Instructions
 
 1º. Open command window
+
 2º. Execute ibt.exe with the next instruction:   ibt -p ''COM-PORT'' -mic  where ''COM-PORT'' is the number of the COM port that the electronic device is conected. To know this, you can write the instruction 'mode' into your command window to see what COM ports are enables. marsyas.dll is compleatly necesary to run ibt.exe.
+
 3º. Play any music
 
 The algorithm works really well with electronic music or some genres with loud beats but his performance is not so good in genres like clasical music or jazz.
