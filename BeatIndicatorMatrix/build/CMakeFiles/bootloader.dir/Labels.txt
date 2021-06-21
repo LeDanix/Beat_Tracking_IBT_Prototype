@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/CMakeFiles/bootloader
+F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/CMakeFiles/bootloader.rule
+F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/CMakeFiles/bootloader-complete.rule
+F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

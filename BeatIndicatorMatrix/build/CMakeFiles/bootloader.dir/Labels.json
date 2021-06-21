@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "F:/Universidad/TFG/ESP-32/BeatIndicatorMatrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
