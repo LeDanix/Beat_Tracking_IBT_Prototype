@@ -2,6 +2,7 @@ The repository contains the source code of the IBT Beat-Tracking program modifie
 The aim to this proyect is build a functional prototype that allows users to improve theirs beat tracking abilities.
 
 This proyect only work with a electronic device. His electronic esquematic is on my easyEDA repository: https://oshwlab.com/DanielSaiz/beattrackermachine
+
 This device is made by a Matrix of LED that allows to visualize each beat that IBT program detects. Works in real time, catching audio from the computer mic.
 If you want to build this device, the code that allows his functions is on the BeatIndicatorMatrix folder of this repository. For more information about flashing a ESP-32, visit the espressif documentation.
 
